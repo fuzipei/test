@@ -406,10 +406,10 @@ onMounted(() => {
   } else {
     terminal.writeTextOutput(
       `Welcome to YuIndex, coolest browser index for geeks!` +
-        `<a href="//github.com/liyupi/yuindex" target='_blank'> GitHub Open Source</a>`
+        `<a href="//github.com/liyupi/yuindex" target='_blank'> Be inspired by</a>`
     );
     terminal.writeTextOutput(
-      `Author <a href="//docs.qq.com/doc/DUFFRVWladXVjeUxW" target="_blank">coder_yupi</a>` +
+      `Author <a href="//play.opendevstudio.com" target="_blank">fuzipei_index</a>` +
         `: please input 'help' to enjoy`
     );
     terminal.writeTextOutput("<br/>");
