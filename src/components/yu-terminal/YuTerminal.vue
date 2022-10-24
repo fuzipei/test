@@ -405,7 +405,7 @@ onMounted(() => {
     });
   } else {
     terminal.writeTextOutput(
-      `Welcome to YuIndex, coolest browser index for geeks!` +
+      `Welcome to fuzipeiIndex, coolest browser index for geeks!` +
         `<a href="//github.com/liyupi/yuindex" target='_blank'> Be inspired by</a>`
     );
     terminal.writeTextOutput(
