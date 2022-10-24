@@ -2,7 +2,7 @@
  * 网站域名
  * @type {string}
  */
-const WEB_HOST = "https://test-fuzipei.vercel.app/#/";
+const WEB_HOST = "https://test-fuzipei.vercel.app/";
 
 /**
  * 查询简略用户信息需要的字段
