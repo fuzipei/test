@@ -18,7 +18,7 @@
     "express-session": "^1.17.2",
     "md5": "^2.3.0",
     "morgan": "^1.10.0",
-    "mysql2": "^2.3.3",
+    "mysql2": "^3.9.8",
     "nodemailer": "^6.6.0",
     "random-string": "^0.2.0",
     "redis": "^3.0.2",
